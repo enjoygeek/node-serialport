@@ -17,6 +17,7 @@ https://github.com/EmergingTechnologyAdvisors/node-serialport/blob/master/CONTRI
 [![codecov](https://codecov.io/gh/EmergingTechnologyAdvisors/node-serialport/branch/master/graph/badge.svg)](https://codecov.io/gh/EmergingTechnologyAdvisors/node-serialport)
 [![Build Status](https://travis-ci.org/EmergingTechnologyAdvisors/node-serialport.svg?branch=master)](https://travis-ci.org/EmergingTechnologyAdvisors/node-serialport)
 [![Build status](https://ci.appveyor.com/api/projects/status/u6xe3iao2crd7akn/branch/master?svg=true)](https://ci.appveyor.com/project/j5js/node-serialport/branch/master)
+[![Greenkeeper badge](https://badges.greenkeeper.io/EmergingTechnologyAdvisors/node-serialport.svg)](https://greenkeeper.io/)
 
 For support you can open a [github issue](https://github.com/EmergingTechnologyAdvisors/node-serialport/issues/new), for discussions, designs, and clarifications, we recommend you join our [Gitter Chat room](https://gitter.im/EmergingTechnologyAdvisors/node-serialport). We have two related projects [Browser Serialport](https://github.com/garrows/browser-serialport) "just like Node Serialport but for browser apps", and [Serialport Test Piliot](https://github.com/j5js/serialport-test-pilot) which helps us test serialport.
 
